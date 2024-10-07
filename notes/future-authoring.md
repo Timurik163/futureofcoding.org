@@ -57,20 +57,13 @@ This is taken from Jordan Peterson's [Future Authoring course](https://selfautho
 **If you could choose only one thing that you could do better, what would it be?**
 **Think and write for at least two minutes, then move on.**
 
-The first thing that comes to mind is being less reactive. I mean this mostly in conversation with other people. If I could learn to be more patient and respond more thoughtfully, my conversations would have better outcomes.
 
-Part of this could be allowing myself to take notes during conversations as an outlet for what I want to say so that I feel "heard" and not scared of forgetting but don't interupt the other person. Even just a word or two would be good. I don't want to lose track of what the other person is saying while I'm writing. I guess it would be helpful to have a notepad or pen for writing on napkins or a phone or tablet out during conversations.
 
 
 #### 1.2. Things to Learn About
 **What would you like to learn more about, in the next six months? Two years? Five years?**
 **Think and write for at least two minutes, then move on.**
 
-In the next six months, I'd like to learn about AT, dance, various programming topics such as databases, FRP. But most importantly I want to learn about how to live life for a cause, and get on the path to figuring out my crusade.
-
-In the next two years, I'd like to learn about meditation because I think that will help me with my goal of less reactivity and more responding. I'd also like to learn about communication and how to inspire and motivate others.
-
-In the next five years, it's difficult to imagine which skills I'd want to learn then. I'll be 28. If I'm still dating Sarah, we'll be talking about marriage and kids (if we haven't done either before then), so I imagine I'll be wanting to learn about those sorts of domestic things and/or scaling my crusade to areas where I don't have skills.
 
 #### 1.3. Improve Your Habits
 **What habits would you like to improve?**
@@ -81,22 +74,12 @@ In the next five years, it's difficult to imagine which skills I'd want to learn
 **-With regards to smoking/alcohol/drug use?**
 **Think and write for at least two minutes, then move on.**
 
-I've been doing a great job of improving my habtits at work, including waking up at 7am, going to bed at 11pm, planning my schedule, writing in my journal, releasing podcast episodes, reflecting on my progress, getting advice from mentors and experts, allowing time for all of these important meta tasks, including getting to inbox zero every day. I would like to improve the way I organize my thoughts. Currently they feel a bit scattered. I wonder if this is a tools problem or simply a time problem, in that as my brain is pickled in these ideas and thoughts, it will become easier to organize them over time.
-
-With my friends and family, I would like to set up a system where I contact them all more regularly. I have tried in the past but it's a big project. Will do at some point.
-
-For my health, I'm trying to not pleasure or bordeom eat as much. Also, trying to deepen my AT practive.
-
-With regards to drinking, I definitely don't like it that much and it's not healthy so I've resolved to do it much less. Only when I really want to, similar to Eli.
 
 #### 1.4. Your Social Life in the Future
 
 **Friends and associates are an important part of a meaningful, productive life. Take a moment to consider your social network. Think about the friends you might want to have, and the connections you might want to make. It is perfectly reasonable to choose friends and associates who are good for you. Describe your ideal social life.**
 **Think and write for at least two minutes, then move on.**
 
-The obvious one is that I really would like to be friends with Docks. Let me write a note to text him in my inbox.
-
-My social life at the moment is pretty great. I love seeing at lot of Jonathan. We are on the same wave length at the moment. Eric is also a great friend for me. Zach Valenti is good but I do have trouble because I "make him wrong" some of the time.
 
 #### 1.5. Your Leisure Activity in the Future
 
@@ -106,32 +89,22 @@ My social life at the moment is pretty great. I love seeing at lot of Jonathan. 
 **Describe what your leisure life would be like, if it was set up to be genuinely productive and enjoyable.**
 **Think and write for at least two minutes, then move on.**
 
-I definitely like dance. I also enjoy running and working out in general. I joined ClassPass this morning and am going to a barre class with Sarah in a few hours. I also love to read. I do enjoy a bit of television here and there, and it does relax me before bed. I also really love brunch. I think at some point I could see myself picking up a musical instrument but let's start with dance first. Also I could see myself picking up drawing, because it's a way to train your brain to see in a different way.
-
 #### 1.6. Your Family Life in the Future
 
 **Take a moment to consider your home and family life. Peaceful, harmonious family life provides people with a sense of belonging, support for their ambitions, and reciprocal purpose. Describe what your ideal family would be like. You can write about your parents and siblings, or about your plans for your own partner, or about your children, if any – or about all of these. What kind of partner would be good for you? How could you improve your relationship with your parents or siblings?**
 **Think and write for at least two minutes, then move on.**
 
-At this very moment, my family life is pretty ideal. I am totally in love with my partner Sarah, we see each other throughout the day, and my relationship to each of my parents and siblings is really strong and enjoyable. It's difficult to think about whether I want kids or not as some point from my current perspective. Clearly right now I wouldn't want them. I think I might feel differently after I choose my crusade and make some sort of signifiant progress towards it. Also it might feel more possible and exciting when I'm more finacially secure.
+
 
 #### 1.7. Your Career in the Future
 
 **Much of what people find engaging in life is related to their careers. A good career provides security, status, interest, and the possibility of contributing to the community. Take a moment to consider your school or work careers, or both. Where do you want to be in six months? Two years? Five years? Why? What are you trying to accomplish?**
 **Think and write for at least two minutes, then move on.**
 
-In the next six to twelve months, I'd like to make progress on 1) my crusade or 2) a finacial way to support myself while not losing much flexibility.
-
-In the next two years, I'd like to have a corpus of work that I am proud of and that earns me a small amount of acclaim within my community.
-
-In the next five years, I'd love to have my crusade nailed down and have begun working on it in earnest. Potentially this will look like starting a research lab, or starting a company or startup, or creating a Kickstarter, or getting a job at a think tank or lab that I admire.
-
 #### 1.8. Qualities You Admire
 
 **People you automatically admire have qualities that you would like to possess or imitate. Identifying those qualities can help you determine who it is that you want to be. Take a moment to think about the two or three people you most admire. Who are they? Which qualities do they possess that you wish you had?**
 **Think and write for at least two minutes, then move on.**
-
-I admire Docks, Bret Victor, Juan Benet, and Elon Musk. What all of these people have in common is strong principles and priorities that they live by in such a way that the people around them and the broader world is effected by them. It's really the combination of integrity and vision.
 
 ### The Ideal Future: Complete Summary
 
@@ -147,52 +120,7 @@ I admire Docks, Bret Victor, Juan Benet, and Elon Musk. What all of these people
 **Dream while you write, and don't stop. Write at least until the 15 minutes have passed. Be ambitious. Imagine a life that you would regard as honourable, exciting, productive, creative and decent.**
 **Remember, you are writing only for yourself. Choose goals that you want to pursue for your own private reasons, not because someone else thinks that those goals are important. You don't want to live someone else's life. Include your deepest thoughts and feelings about all your personal goals.**
 
-There are a few things on my mind here. First of all, I want to live a conscious life. That means that I will set aside plenty of time on my calendar for reflection time (like this) so that I can meditate on my priorities and goals, which will in turn help me persue them better. In this way I am seeing that integrity and vision are interrelated. If you have integrity without vision you don't really have integrity because you have no basis for making comitments. If you have vision without integrity, you are just an idle dreamer. If you have both, you are a force of nature. That's what I want to be. I want people to ask *how can one person get so much done?* and *how can one person have it all?* and be really be confused, because they don't see that the secret is priorities and then living them.
 
-I want my reflections on the impact of my past work on the world to immediately bring a smile to my face. I want to be able to recall specific people and problems that my work has ammelieorated. I want to jump out of bed each morning and collapse into bed each night fufilled.
-
-I want my relationships with my partner and close family to be empowered. I want to be a light in their lives and a rock and resource for them through their difficulties. I want the lives of everyone I touch, from the waiter a resturant to a person I meet over coffee to my best friends, to be lighter for my prescense.
-
-I want an inner calm and peace. I want confience in myself so that when my reptile brain feels like it's being attacked, I can calm it down quickly so that I can respond and not react.
-
-I want to live a model life and share it publicly so that others can read my progress and model themselves after me. The medium of my life is the message and I want to make that message as detailed as possible.
-
-I plan to achieve my goals through a fairly straightforward proccess of:
-
-1) reflecting on anxieties, problems, wants
-2) coming up with various plans for each of these things
-3) engaging with friends and mentors for advice on these things and my proposed solutions
-4) put the best solutions into action
-5) repeat
-
-This proccess works at a micro level for little issues I have with my mom on a given day and macro issues about my goals for my entire life.
-
-I want to produce thoughts. I want to inspire others. I want to literally change the way others brains work by adding in different analogies and patterns of thought. I want to empower people. I want children to grow up in love with their brains and be thankful to me for getting them there, just like I am thankful to Seymour. 
-
-Wait a second: thankful for brain. Love thy brain. Is that my crusade. I want people to fall in love with their brains. That really sounds like it could be. 
-
-Here's where my head is at: before I found the Alexander Technique, I hated my body. Not from a body image perspective but from a back and hand RPI pain perspective. It always hurt and so I subconsciously rejected it and tried to distract myself from it and its signals. I daydreamed about uploading my consciousness to the cloud so I could be free of all my bodily pains. I worry that many people feel the same way about their brains, including:
-
-* having a fixed mindset about their intellegence, habits, or personality
-* thinking that they are "bad at math" or some other subject
-* feeling disempowered to learn new things because of poor performance in school
-* feeling disempowered to think for themselves
-* feeling disempowered to solve their own problems
-* hating yourself for things you have done or continue to do and can't stop (addictions)
-
-We all have various forms of self-loathing. One of my main insights is that loving your thinking brian is so wonderful. It is so empowering. So freeing. So powerful.
-
-Wait a second. I just had another thought. What about tools? If I think about how I fell in love with my brain, it was always around different technologies that augmented it, be it a note-taking strategy, LOGO, or learning to leverage a full piece of paper for scrap work. 
-
-Holy shit. One of my main things is: you cannot seperate man from his tools. A human literally is the tool-making animal. Augmented humans. That was Douglas Engelbart. Mine is so similar. But it's a bit more: humans = ape + tools. That's really what I'm trying to fight for. We *are* our tools. That's why tools are so important. They mean everything. That's why important ideas are so important: they are tools. Words, the idea of human rights, analogies: these are all tools to think with as much as a google doc or a piece of code. HOLY crap **humans = ape + tools**. Is that my crusade?
-
-If it is, then how do I measure it's progress? Ok, well no `humans = ape + tools` is an insight but it's not the problem. It's more like:
-
-1) humans = apes + tools
-2) tools (including ideas, patterns of thought, software, etc) are the way that humans design the next version of humanity
-3) We have to take them with us everywhere, otherwise we're cutting off our arms and are diminished.
-
-So my crusade could be really owning tools as part of us, and building the tools in such a way that brining them with us *literally everwhere* is a pro and not a con. This takes into account all the negative things with our current tools, like bad notifications, etc.
 
 ### A Future to Avoid: Complete Summary
 
@@ -202,31 +130,10 @@ So my crusade could be really owning tools as part of us, and building the tools
 **Think about the people you know who have made bad decisions or remained indecisive, or who chronically deceive themselves or other people, or who let cynicism and anger dominate their lives. Where do you not want to be?**
 **Dream while you write, and don't stop. Write at least until the 15 minutes have passed. Let yourself form a very clear picture of the undesirable future.**
 
-I'd say the worst future would be being dead. That would be sad. I defintely want to remain alive so I will be very careful about things, including my healthy and not doing dangerous things.
 
-Next, I think I would be really good at being a drug addict. Heroine and cocaine sound like a lot of fun. Making sure to never try either of those things is a great idea. Given the resources I have and the reputation I have where people trust me and don't expect this from me, I could really fall deeply into this hole and possibly even kill myself.
 
-I think I could also get myself in trouble with some sort of sexual misconduct if I'm not careful, as is the case with all men, especially these days. Luckily for me, I am currently happily monogomous. However, Sex At Dawn warned me about how the honeymoon phase only lasts 1-2 years, 5 max, and then begins the long phase of less exicing sex. I can't really imagine what that will be like but I will have to be conscious of it and deal with it in an intergrous way, either by doing thigs to spice things up, opening our relationship to other partners, etc.
 
-Having a child I don't really want or getting married too early could definitely throw things for a loop.
 
-Making bad finacial decisions could make things much harder.
-
-Getting into bad ways with my parents would definitely decrease the quality of my life. They are the wind beneath my sails currently so keeping that up is key.
-
-Getting into a funk or depression would be bad for me. I definitely have been known to get into funks in the past.
-
-Getting sick or in pain for long periods of time. Getting addicted to opiods.
-
-Ok and more about my work: flitting around from one research project to the next without finishing anything. That would probably be the worst thing, even worse than picking the wrong thing but seeing it through. Actually on second thought, the worst thing would be picking the wrong crusade and succeeding and then being super sad about the impact. Imagine if I convinced everyone to take their tools everywhere but didn't make the tools enhance their lives. That could get real distopian real fast.
-
-If I become famous to any degree, I could see that getting to my head and making me more of a dick or less able to focus on the actual work.
-
-I could see all sorts of glittery opportunities and friends coming my way the more success I have and letting those things distract me.
-
-I could see myself not being able to get a job and being a leach on my family and friends if I don't prioritize the sustainability of my work.
-
-I could see myself being less impactful because I can't work well with others.
 
 ### Stage 1: The Ideal Future: Preliminary Notes and Thoughts has been completed
 
@@ -285,36 +192,36 @@ I could see myself being less impactful because I can't work well with others.
 **The summaries you write about each goal should be reasonably brief and memorable. Make sure that each goal summary includes nothing but the most important information. You will have 10-15 minutes for this part of the exercise. Feel free to revise and edit.**
 
 **Goal 1**
-**Goal Title:** Respond more, react less
-**Goal Description:** Through mindfulness practices like the Alexander Technique and potentially meditation and retreats, I want to be more calm and collected about all of my actions, either alone walking, while working, and while in conversation with others.
+**Goal Title:** 
+**Goal Description:** 
 
 **Goal 2**
-**Goal Title:** Construct my crusade
-**Goal Description:** Read, write, reflect, and collaborate myself to a simple mission I can dedicate my life to
+**Goal Title:** 
+**Goal Description:** 
 
 **Goal 3**
-**Goal Title:** Long-term financial sustainability
-**Goal Description:** For my crusading
+**Goal Title:** 
+**Goal Description:** 
 
 **Goal 4**
-**Goal Title:** Build and/or use catch-up system
-**Goal Description:** A system that allows me to more consciously manage who I catch up with on a regular basis. Kinda like a CRM but for my friends and family.
+**Goal Title:** 
+**Goal Description:** 
 
 **Goal 5**
-**Goal Title:** Contribute meaningfully towards my cause
-**Goal Description:** I guess this will depend on my cause, but I could imagine writing an essay like **Learnable Programming** or giving a talk like **The Future of Programming** or Chris Granger’s most recent keynote at SPLASH would be in the right ballpark.
+**Goal Title:** 
+**Goal Description:** 
 
 **Goal 6**
-**Goal Title:** Positivity and inspiration
-**Goal Description:** I want to be a light in the life of everyone I touch, from strangers I run into to close friends and family. 
+**Goal Title:** 
+**Goal Description:** 
 
 **Goal 7**
-**Goal Title:** Build partnerships and/or a team
-**Goal Description:** It takes a village to pursue a cause. (Potentially once I’ve figured out what my cause is, it would be the right time for me to take the Landmark SCLP program. Or I could just do it my own way.) Even if I’m just a solo writer, I will depend on others, collaborators, partners, teammates, etc. Finding and working with these people is key.
+**Goal Title:** 
+**Goal Description:** 
 
 **Goal 8**
-**Goal Title:** Build my reputation/brand
-**Goal Description:** In order to be taken seriously, the ideas come first. At the same time, ideas that don’t ever see the light of day are just a tree falling in the forest: not making a sound. I need to improve my twitter, essay writing, event-throwing games.
+**Goal Title:** 
+**Goal Description:** 
 
 ### 2.3. Prioritizing Your Goals
 
@@ -322,14 +229,21 @@ I could see myself being less impactful because I can't work well with others.
 
 **[List them in order of importance]**
 
-**Goal 1:** Respond, not react
-**Goal 2:** Construct my cause
-**Goal 3:** Contribute meaningfully to my cause
-**Goal 4:** Positivity and inspiration
-**Goal 5:** Long-term financial sustainability
-**Goal 6:** Build partnerships and/or team
-**Goal 7:** Build reputation/brand
-**Goal 8:** Catch-up system
+**Goal 1:** 
+
+**Goal 2:** 
+
+**Goal 3:** 
+
+**Goal 4:** 
+
+**Goal 5:** 
+
+**Goal 6:** 
+
+**Goal 7:** 
+
+**Goal 8:** 
 
 ### 2.4. Strategizing About Your Goals
 
@@ -354,29 +268,21 @@ I could see myself being less impactful because I can't work well with others.
 **-Is this goal part of a deeply felt personal dream?**
 **Please spend a minute or two writing down your reasons for pursuing this goal:**
 
-**Goal 1:** Respond, not react
+**Goal 1:** 
 
-Yes I truly believe this is important. Reacting is animal. Responding is human. Responding and not reacting is key to integrity and integrity is what makes things work. I feel a yearning to accomplish this, like a challenge. I am doing this partly to be a better friend, partner, and son for my love ones. It’s a challenge, but not in the tradition sense where “trying harder” yields better results. I have always wanted some sort of enlightenment and I feel this is a step in the right direction.
+**Goal 2:** 
 
-**Goal 2:** Construct my cause
+**Goal 3:** 
 
-Do I really want to live this way? Yes. It’s hard to imagine a better way to live. Shooting for the hedonic happiness of the people around me is fine but I want to live for more. I want to live for a cause. And thus constructing the cause is the first step. Living for the wrong cause — while probably more fun — is definitely worse for the world.
+**Goal 4:** 
 
-**Goal 3:** Contribute meaningfully to my cause
+**Goal 5:** 
 
-Just as how before I started The Coding Space but knew that my identity was an entrepreneur and it felt strange to not have started any companies, it now feels weird to be a researcher/writer person without an article that goes reasonably viral in the community. Like 10k reads minimum and front page of hacker news. But I’d prefer 100k reads and #1, 2 or 3 on HN. Yes this is partially a status and ego thing, but it’s also a real thing. I can’t contribute to ideas without people engaging with my ideas.
+**Goal 6:** 
 
-**Goal 4:** Positivity and inspiration
+**Goal 7:** 
 
-Because why not? There are some people in my life — Potluck is the epitome — who just make me smile to think about. Why not be that person for the people in my life? 
-
-**Goal 5:** Long-term financial sustainability
-
-I would feel like a leech if I wasn’t able to support my lifestyle through my work. Knowing that Robert Moses didn’t earn a salary until he was 40 or something will help with my self-judgement (as long as I can see my work having an impact). And I don’t need to make much. I simply don’t want to be a financial burden on anyone, or for money to be an issue for me, and between me and my loved ones.
-
-**Goal 6:** Build partnerships and/or team
-**Goal 7:** Build reputation/brand
-**Goal 8:** Catch-up system
+**Goal 8:** 
 
 #### 2.4.2. Considering the Broad Personal and Social Impact of Goals
 
@@ -390,29 +296,21 @@ I would feel like a leech if I wasn’t able to support my lifestyle through my 
 **-What broader beneficial social impact might your success have?**
 **Please write a short description of how attaining this goal would change additional important aspects of your life, and the lives of others.**
 
-**Goal 1:** Respond, not react
+**Goal 1:** 
 
-I would see myself as more of an adult, more in control of my own life and of the entire world. People who react with way, and with integrity, and with a cause, are forces of nature, like Elon, Docks, Juan. Others would perceive me as calmer and wiser. It would make my conversations clearer, less frenetic. It would allow me to speed up by slowing down in all parts of my life.
+**Goal 2:** 
 
-**Goal 2:** Construct my cause
+**Goal 3:** 
 
-My whole life would make more sense in the context of an articulated constructed goal. I would get better and better at explaining it to all sorts of audiences over time. I would be able to attract collaborators to me like a magnet. I would be able to track and optimize my progress. I would be a man on a mission.
+**Goal 4:** 
 
-**Goal 3:** Contribute meaningfully to my cause
+**Goal 5:** 
 
-People would begin to see me as I am beginning to see myself: as an intellectual who has things to say. Someone who absorbs ideas like a sponge and produces quality ones at a prodigious pace. Someone whose ideas will inspire others and change the world. Of course, the ideas is that this perception will be rooted in the reality of the impact my ideas have upon people who engage with them.
+**Goal 6:** 
 
-**Goal 4:** Positivity and inspiration
+**Goal 7:** 
 
-In the short term, being a light of positivity makes the people around me happier and more capable of solving problems in their own lives. In the longer term, my positivity will attract people to me. It will also make it easier for me to help people and be helped by people. 
-
-**Goal 5:** Long-term financial sustainability
-
-I would have more pride in myself and less anxiety about my finances. Sarah and I might “treat ourselves” a bit more, travel a bit more.
-
-**Goal 6:** Build partnerships and/or team
-**Goal 7:** Build reputation/brand
-**Goal 8:** Catch-up system
+**Goal 8:** 
 
 #### 2.4.3. Considering the Detailed Strategies for Goal Attainment
 
@@ -423,31 +321,21 @@ I would have more pride in myself and less anxiety about my finances. Sarah and 
 **-Specify when you are going to work on your goal. Specify how often. Specify where. Think hard about how you are going to implement your plans. Make your plans concrete.**
 **Write down those concrete weekly or daily things you might do to further this goal.**
 
-**Goal 1:** Respond, not react
+**Goal 1:** 
 
-Continue taking lessons once or twice a week with Rebecca and doing my Alexander Technique homework. Experiment with different meditation practices, potentially working with Michael Taft or going on retreats. Continue reflecting in my journal.
+**Goal 2:** 
 
-**Goal 2:** Construct my cause
+**Goal 3:** 
 
-Pickle myself in ideas, which I’m doing, and reflect on my past projects, and work on new projects and reflect on them. Also, go to Dynamicland and chat with them about all this.
+**Goal 4:** 
 
-**Goal 3:** Contribute meaningfully to my cause
+**Goal 5:** 
 
-This means that I need to spend a meaningful amount of time writing a polished piece. The level of research and polish I put into it will have to be far beyond what I’ve done in the past. (Or there’s also the churn out a lot of little pieces, but I’m less excited about this model at the moment because it feels to half-baked for the level of quality I’m now shooting for. But I can definitely revisit this.)
+**Goal 6:** 
 
-One way to get an easy win under my belt here would be collaborating with someone, such as Nicky Case.
+**Goal 7:** 
 
-**Goal 4:** Positivity and inspiration
-
-Learning to respond and not react is key. Also *not making people wrong* is really really key. Another one is speaking in terms that *they* understand. Another one is talking less. Asking more questions.
-
-**Goal 5:** Long-term financial sustainability
-
-The work is key. Start with producing good ideas. Use your savings as seed money. Then once we’re on the right track, then look into grants, Patreon, fellowships, research positions, etc.
-
-**Goal 6:** Build partnerships and/or team
-**Goal 7:** Build reputation/brand
-**Goal 8:** Catch-up system
+**Goal 8:** 
 
 #### 2.4.4. Identifying Potential Obstacles and their Solutions
 
@@ -456,43 +344,21 @@ The work is key. Start with producing good ideas. Use your savings as seed money
 **How might you interfere with your own plans? How can you ensure this won't happen? Sometimes change is threatening to people we know and love. Will the people you know help you, or interfere? How can you communicate with them, so that they will support you? Think of realistic and worst-case scenarios. What are your options? What are your alternative plans?**
 **Write down potential obstacles to this goal, and specify the ways you might overcome them.**
 
-**Goal 1:** Respond, not react
+**Goal 1:** 
 
-Running out of money before feeling “done” with lessons with Rebecca. Not super likely. Parents can always help.
+**Goal 2:** 
 
-Getting into a funk of some sort and loosing my practice. Or moving away and not being able to find a teacher I like as much as Rebecca. Both seem unlikely. 
+**Goal 3:** 
 
-**Goal 2:** Construct my cause
+**Goal 4:** 
 
-I could see myself flitting around from cause to cause. As long as I reflect with myself and mentors, seems avoidable. I’m ok with it taking a few years if necessary to come up with a cause.
+**Goal 5:** 
 
-I could see myself getting tired of not having a clear direction and just wanting to work for someone else who has a cause that I can latch onto.
+**Goal 6:** 
 
-**Goal 3:** Contribute meaningfully to my cause
+**Goal 7:** 
 
-Being stuck on constructing my cause and not working on any meaningful work. I will have to realize that contributing will help me construct the cause over time.
-
-Noting finishing things, always moving onto the next one. I am aware of this and will make sure to reflect upon it and catch it if it’s getting out of hand.
-
-Allowing my essay to get bigger and bigger as I try to make it more and more perfect and complete, eventually turning into a book or Magnus opus. Basically **not shipping**. Again, I think I and my advisors would catch me on this within a few weeks.
-
-**Goal 4:** Positivity and inspiration
-
-Me being in pain. Making sure I’m on top of AT is key. 
-
-Me being in bad moods. Potentially meditation (or AT) will help with this.
-
-Me feeling attacked. Responding, not reacting is key.
-
-**Goal 5:** Long-term financial sustainability
-
-Not being able to find enough people with enough disposable income who resonate with my crusade enough to give me enough to be comfortable.
-
-Potentially I could see this happening by fixating on the wrong sources, such as Patreon, at the expense of other less sexy sources like government or foundation grants. Reflection will help me catch this and keep the funnel mentality.
-
-**Goal 6:** Build partnerships and/or team
-**Goal 7:** Build reputation/brand
-**Goal 8:** Catch-up system
+**Goal 8:** 
 
 #### 2.4.5. Monitoring Progress towards Desired Goals
 
@@ -506,29 +372,21 @@ Potentially I could see this happening by fixating on the wrong sources, such as
 **-Your benchmarks should be personal indicators of success. It doesn't matter what others may think defines progress towards your goal. Write down those accomplishments would truly indicate positive movement on your part. Feel free to write as much as you feel is necessary.**
 **Write down how you might monitor your progress with regards to this goal.**
 
-**Goal 1:** Respond, not react
+**Goal 1:** 
 
-The thing about being more mindful is that the more mindful you are the more you *notice yourself being mindful.* That is, someone with little mindfulness may think of themselves as mindful because they *can’t detect what they can’t detect* and mindfulness is the process of *making the unconscious conscious*. Thus this is a trickier one to detect inside my own head. Yet, I can still tell when my I don’t check in with my body and my posture goes to shit. Same with interacting with people in a reactive, not responsive way. On a macro level, I would expect that when I’m better at this that I am calmer. Speak less in conversation. Have easier conversations. Have people smile more when they talk to me. 
+**Goal 2:** 
 
-**Goal 2:** Construct my cause
+**Goal 3:** 
 
-As far as process goals, as long as I continue to wake at 7am, sleep at 11pm, do 4-6 hours of work per day, producing ~5k words, I’m on the right track, particularly if I’m also spending  some of that time that time talking with the right people.
+**Goal 4:** 
 
-**Goal 3:** Contribute meaningfully to my cause
+**Goal 5:** 
 
-Large number of reads of an article or stars on a GitHub library. Between 10-100k reads. Front page of HN, higher the better. Being cited in other articles that I read later on various sites and places. Being contact by collaborators, people who want to be on the podcast, work together.
+**Goal 6:** 
 
-**Goal 4:** Positivity and inspiration
+**Goal 7:** 
 
-More smiles around me. More people magically solving their problems after talking to me. (Yes, this really has happened simply from positivity. We didn’t even talk about the problems. Simply a positive outlook was enough to liberate them to solve the problem 100% without my advice.) People around me being more fulfilled, pursuing their lives with gusto.
-
-**Goal 5:** Long-term financial sustainability
-
-Pretty straightforward to measure. $2k per month is base. $3k per month is less anxiety about nice stuff. $4k per month and above is contributing to my savings every month. 
-
-**Goal 6:** Build partnerships and/or team
-**Goal 7:** Build reputation/brand
-**Goal 8:** Catch-up system
+**Goal 8:** 
 
 ### 2.5. Future Steps
 
